@@ -1,5 +1,4 @@
-# CS-271
- Porfolio Project  
+# A experimental project written in Assembly 
 This program will ask the user to input 10 signed decimal integers.  
  then calculate and display them, their sum and their average value.  
  The input will be read as a string then covert to number and be validated whether it has  
